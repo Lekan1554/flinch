@@ -5,9 +5,5 @@
 - perfece the user interface and inser contents into it
 - merge user interface and backend
 - test everything and remove all bugs
-<<<<<<< HEAD
 - submit project to the owner.
 - i have to deliver the man's work this week. 
-=======
-
->>>>>>> very-bad
