@@ -6,3 +6,4 @@
 - merge user interface and backend
 - test everything and remove all bugs
 - submit project to the owner.
+- i have to deliver the man's work this week. 
