@@ -5,4 +5,4 @@
 - perfece the user interface and inser contents into it
 - merge user interface and backend
 - test everything and remove all bugs
-- submit project to the owner.
+- dont worry the owner wount do shit
